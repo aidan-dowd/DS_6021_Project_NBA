@@ -1,0 +1,18 @@
+Final Project- Predictive Modeling
+
+Dataset: NBA
+Clustering
+Player Type
+Team Type
+Team Performance
+Player Performance
+Logistic Regression
+Predict a Player’s Scoring Progression
+Predict a Teams Winning Percent
+All Star
+All NBA
+Data Cleaning
+Feature Engineering
+
+
+—-------------------------------------------------------------------------------------------------
